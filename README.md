@@ -8,6 +8,8 @@ This is a simple application with three buttons, a progress bar, a timer and AVA
 
 The project was developed with a storyboard and using MVC Design Pattern
 
+### How it works
+
 ### ⚒️ Tools used by me to design and develop this application:
 
 - Xcode 
