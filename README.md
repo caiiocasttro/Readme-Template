@@ -2,13 +2,13 @@
 
 ## Description --
 
-### About the project 
+### 💡 About the project 
 
 -
 -
 -
 
-### How it works
+### 🧐 How it works
 
 -
 -
